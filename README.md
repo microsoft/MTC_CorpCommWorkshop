@@ -19,7 +19,7 @@ Learn how Microsoft 365 enables you to create sustainable two-way connections be
 
 
 ## Workshop Resources
-- [Slides](MTC%20Corp%20Comm%20Workshop.pdf)
+- [Presentation slides](MTC%20Corp%20Comm%20Workshop.pdf) ([pdf](MTC%20Corp%20Comm%20Workshop.pdf) | [pptx](MTC%20Corp%20Comm%20Workshop.pptx))
 - Cohort notebook (coming soon)
 - Exercise 0 (coming soon)
 - Exercise 0.5 (coming soon)
