@@ -1,35 +1,33 @@
 # Corporate Communications Workshop
-Learn how Microsoft 365 enables you to create sustainable two-way connections between leadership and employees. Get hands-on experience configuring an intelligent intranet in SharePoint Online, producing and tracking news stories and videos, configuring and using communities in Yammer, configuring surveys in Microsoft Forms to collect feedback, and producing live townhall events in Microsoft Teams. Learn best practices and detailed guidance for each of the previous topics, all without customization or code. Workstations will be provided.
+Learn how Microsoft 365 enables you to create sustainable two-way connections between leadership and employees. Get hands-on experience configuring an intelligent intranet in SharePoint Online, producing and tracking news stories and videos, configuring and using communities in Yammer, configuring surveys in Microsoft Forms to collect feedback, producing live townhall events in Microsoft Teams, and publishing video to Microsoft Stream. Learn best practices and detailed guidance for each of the previous topics, all without customization or code. Workstations will be provided.
 
 **Audience**: Corporate Communications, Human Resources, IT staff supporting HR and/or Corp. Comm.
 
 | Time         | Topic   |
 |:-------------|:------- |
-|8:30 AM  | Check in, find a seat, mingle + Exercise 0 |
-|9:00 AM  | Leadership Engagement overview + discussion |
-|         | Collaborating in Teams + Exercise 0.5 |
-|         | Intelligent Intranet / News + Exercise 1 |
-|         | Communities + Exercise 2 |
-|12:00 PM | Lunch (provided) |
+|9:00 AM  | Exercise 0  - Log in to workshop tenant|
+|9:15 AM  | Leadership Engagement overview |
+|9:30 AM  | Intelligent Intranet / News + Exercise 1 |
+|10:30 AM | Break |
+|10:45 AM | Communities + Exercise 2 |
+|11:30 AM | Lunch (on your own) |
 |12:30 PM | Feedback + Exercise 3 |
-|         | Townhalls / Video + Exercise 4 |
-|         | Bringing it all together + Exercise 5 |
-|3:30 PM  | Recap + discussion |
-|4:00 PM  | End of event |
+|1:00 PM  | Townhalls / Video + Exercise 4 |
+|1:45 PM  | Recap + discussion |
+|2:00 PM  | End of workshop |
 
 
 ## Workshop Resources
-- [Presentation slides](MTC%20Corp%20Comm%20Workshop.pdf) ([pdf](MTC%20Corp%20Comm%20Workshop.pdf) | [pptx](MTC%20Corp%20Comm%20Workshop.pptx))
+- [Presentation slides](MTC%20Corp%20Comm%20Workshop-Virtual.pdf) ([pdf](MTC%20Corp%20Comm%20Workshop-Virtual.pdf) | [pptx](MTC%20Corp%20Comm%20Workshop-Virtual.pptx))
+- [Other resources](Resources)
 
 Coming soon
 - Cohort notebook
 - Exercise 0
-- Exercise 0.5
 - Exercise 1
 - Exercise 2
 - Exercise 3
 - Exercise 4
-- Exercise 5
 
 ## Workshop Preparation
 Coming soon
